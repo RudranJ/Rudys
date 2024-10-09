@@ -1,0 +1,7 @@
+Health data is known as the data describing a person Health, Healthcare, Anything that affects health and diseases.
+
+Include data from Healthcare professionals and patients.
+
+It must kept secure because it is associated with patient and their records.
+
+Health data is important because to deliver more effectively, to discover procedures to improve.
