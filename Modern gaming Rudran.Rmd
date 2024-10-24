@@ -1,0 +1,40 @@
+---
+title: "Modern Gaming"
+author: "Rudran J"
+date: "2024-10-24"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Modern gaming has evolved to include a variety of new technologies, platforms, and experiences.
+
+## Virtual reality (VR):
+A new way to play games that uses VR headsets [1, a woman wearing a virtual reality headset] 
+
+## Augmented reality (AR):\
+Another new way to play games that uses AR technology.
+## Mobile gaming:\
+Games that can be played on mobile devices.
+## Cloud gaming:\
+A way to play games that uses the cloud.
+## Cross-platform:\
+Games that can be played across multiple platforms.
+
+**Some of the best gaming consoles in 2024 include**:\
+PlayStation 5: Best overall\
+Xbox Series X: Best performance\
+Xbox Series S: Best budget\
+Nintendo Switch OLED: Best handheld\
+Nintendo Switch Lite: Best for kids\
+Steam Deck OLED: Best for PC gamers\
+
+**Some of the best games of all time**:\
+-God of war \
+-Assassins Creed \
+-Call of Duty \
+-Need for speed \
